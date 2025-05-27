@@ -52,8 +52,8 @@
 ## 🚀 Quick Access
 
 ### Essential Links
-🔗 [Latest APK Download](https://fless.rf.gd/download.php)  
-🔧 [FGD Portal](https://fless.rf.gd)  
+🔗 [Latest APK Download](https://fless.netlify.app/download.php)  
+🔧 [FGD Portal](https://fless.netlify.app)  
 🗃️ [Database Dashboard](https://fless.ps.fhgdps.com)  
 ⭐ [GDPSHub Profile](https://gdpshub.com/gdps/2924)
 
